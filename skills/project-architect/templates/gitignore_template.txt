@@ -1,0 +1,27 @@
+# Dependencies
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+node_modules/
+
+# Environment & credentials
+.env
+credentials.json
+token.json
+*.pem
+*.key
+
+# Intermediates
+.tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
